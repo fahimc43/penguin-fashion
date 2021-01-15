@@ -1,0 +1,65 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.menu-item { 
+    margin-left: auto;
+}
+.nav-bg{
+    background-image: linear-gradient(-90deg, #A4BC46, #FABE4C)
+}
+.penguin-banner{
+    background-color: #FFFBF0;   
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 60px;
+    color: #363958;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 48px;
+    color: #363958;
+}
+h5{
+    font-weight: bold;
+    color: #363958;
+    
+}
+h3{
+    font-weight: bold;
+}
+.orange-highlight{
+    color: #FABE4C;
+}
+.icon-play{
+    background-image : url(images/logo-icon/shopping-cart\ 1.png);
+    background-size: cover;
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+}
+
+
+.card-img img{
+    width: 100%;
+    height: 350px;
+    background-color: #F1F1F1;
+    padding: 20px;
+    border-radius: 20px;   
+}
+.penguin-card{
+    border: 0;
+    border-radius: 20px;
+}
+.cat-1{
+    border-radius: 20px;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+}
